@@ -21,7 +21,7 @@ A web-based crop disease detection system that analyzes plant images to identify
 
 1. Clone the repository:
 ```
-git clone https://github.com/nitish9592/crop-disease-detection.git
+git clone https://github.com/Antrikshguleria/AgroSaver
 cd crop-disease-detection
 ```
 
@@ -51,8 +51,4 @@ python main.py
 - `disease_detector.py`: Contains functions for plant disease detection
 - `main.py`: Entry point for the application
 - `templates/`: HTML templates for the web interface
-- `static/`: Static assets (CSS, JavaScript, images)
-
-## License
-
-MIT License
+- `static/`: Static assets (CSS, JavaScript, images)  
